@@ -1,7 +1,7 @@
 ### Hi there, I'm [JITH][website] 👋
 
 ##  I am a Programming Enthusiast and a Web Developer from Thiruvananthapuram, Kerala. I love to code and spend time with my friends.
-- 🔭 I’m currently working at [Artil Solutions][https://www.artilsolutions.com]!
+- 🔭 I’m currently working at Artil Solutions [https://www.artilsolutions.com]!
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Learn Flutter, MERN stack, Machine Learning
