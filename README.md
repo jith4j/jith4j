@@ -1,17 +1,17 @@
 ### Hi there, I'm JITH [http://jith.epizy.com] 👋
 
 ##  I am a Programming Enthusiast and a Web Developer from Thiruvananthapuram, Kerala. I love to code and spend time with my friends.
-- 🔭 I’m currently working at Artil Solutions [https://www.artilsolutions.com]
-- 🌱 I’m currently learning everything 
+- 🔭 I was a web developer intern at Artil Solutions [https://www.artilsolutions.com]
+- 🌱 I’m currently learning Everything 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Learn Flutter, MERN stack, Machine Learning
+- 🥅 2021 Goals: Learn Machine Learning, Data Science, Flutter, MERN stack.
 
 ### Connect with me:
 
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[https://www.artilsolutions.com]<br><br>
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[https://twitter.com/Jith__James]<br><br>
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[https://www.linkedin.com/in/jith4j]<br><br>
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[https://www.instagram.com/proxima__centauri___/]
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />http://jith.epizy.com<br><br>
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />https://twitter.com/Jith__James<br><br>
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/jith4j<br><br>
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />https://www.instagram.com/proxima__centauri___/
 
 <br />
 
