@@ -1,6 +1,7 @@
 ### Hi there, I'm JITH [http://jith.epizy.com] 👋
 
 ##  A Programming && Machine Learning && Web Developping enthusiast from Thiruvananthapuram, Kerala. I love to code and spend time with my friends.
+- Master of Data Science student at University of Western Australia
 - 🔭 I was a web developer intern at Artil Solutions [https://www.artilsolutions.com]
 - 🌱 I’m currently learning Everything 
 - 👯 I’m looking to collaborate with other developers
