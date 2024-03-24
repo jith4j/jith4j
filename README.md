@@ -1,18 +1,19 @@
-### Hi there, I'm JITH [http://jith.epizy.com] 👋
+### Hi there, I'm JAMES 👋
 
-##  A Programming && Machine Learning && Web Developping enthusiast from Thiruvananthapuram, Kerala. I love to code and spend time with my friends.
-- Master of Data Science student at University of Western Australia
-- 🔭 I was a web developer intern at Artil Solutions [https://www.artilsolutions.com]
-- 🌱 I’m currently learning Everything 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Learn Machine Learning, Data Science, Flutter, MERN stack.
+##  A Data Engineer | Programming | Web Developping enthusiast from Perth, Western Australia. <br>I love to code and spend time with my friends.
+- 🎓 Master of Data Science student at University of Western Australia (July 2022 to May 2024)
+- 🧑‍💻 Data Engineer at Guidehouse, India [https://guidehouse.com/regions/india] (Dec 2021 to June 2022)
+- 🔭 Web developer intern at Artil Solutions [https://www.artilsolutions.com] (Dec 2018 to Aug 2020)
+- 🌱 Currently learning Everything 
+- 👯 Looking to collaborate with other developers
+- 🥅 2024 Goals: Learn Machine Learning, Data Science, Flutter, MERN stack.
 
 ### Connect with me:
 
 <img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />http://jith.epizy.com<br><br>
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />https://twitter.com/Jith__James<br><br>
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />https://www.linkedin.com/in/jith4j<br><br>
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />https://www.instagram.com/proxima__centauri___/
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />https://www.instagram.com/jithjamesfernandez
 
 <br />
 
